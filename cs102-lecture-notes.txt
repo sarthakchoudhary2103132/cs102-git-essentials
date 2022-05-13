@@ -4,3 +4,6 @@ git add :To add a file to queue to commit it later
 git commit  : used to save changes made to local depository
 git push :  used to push changes made in local repository to online git repository
 git pull  : used to pull changes made in online git repository to local repository
+
+Lecture Summary:
+At the start of the lecture doubts related to git commands were discussed. Sir then showed us where to download VScode from. Sir showed a webpage designed through markdown files which are easy to create and manage. We were taught about basic interface of vscode and showed how to search and install an extension directly from vscode. Sir told us to install an extension named "Markdown All in One" which has many features including live preview feature that can preview the document we are creating simultaneoulsy. Sir then showed us how to create a markdown file by just adding ".md" in the end, how to preview the document, some basic syntax to describe the Title, sections and subsections of the document. 
